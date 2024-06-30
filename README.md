@@ -21,7 +21,7 @@ Based on
 
 - Software Engineer at [Activ8 Inc.](https://activ8.co.jp/) 🇯🇵 (2023-2024)
 - Software Engineer at Synamon Inc. 🇯🇵 (2018-2023)
-- Software Engineer at [CODE, Co., Ltd.](https://www.code-icf.co.jp/) 🇯🇵 (2013-2018)
+- Software Engineer at [CODE Co., Ltd.](https://www.code-icf.co.jp/) 🇯🇵 (2013-2018)
 - Software Engineer at [G-mode Corporation](https://gmodecorp.com/) 🇯🇵 (2002-2013)
 
 <!-- Skills, Interest -->
