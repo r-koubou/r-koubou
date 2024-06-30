@@ -16,9 +16,8 @@ Based on
 - 📫 How to reach me:
   - [Web - linktr.ee/rkoubou](https://linktr.ee/rkoubou)
   - [Twitter - @rkoubou_jp](https://twitter.com/rkoubou_jp)
-<br>
 
-### Work histroy
+## ⏱️ Work histroy
 
 - Software Engineer at [Activ8 Inc.](https://activ8.co.jp/) 🇯🇵 (2023-2024)
 - Software Engineer at Synamon Inc. 🇯🇵 (2018-2023)
