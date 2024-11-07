@@ -11,7 +11,7 @@ Based on
 <!-- profile -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🆕 Nov 2024, I have secured a new position as a software engineer. ~~Laid off in Mar 2024, actively seeking software engineering role within Japan.~~
+- 🆕 Nov 2024, I have secured a new job as a software engineer. ~~Laid off in Mar 2024, actively seeking software engineering role within Japan.~~
 - 🧑‍💻 I'm a software engineer.
 - 📫 How to reach me:
   - [Web - linktr.ee/rkoubou](https://linktr.ee/rkoubou)
