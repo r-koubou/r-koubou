@@ -9,7 +9,7 @@ Based on
 
 
 <!-- profile -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 - 🧑‍💻 I'm a software engineer.
 - 📫 How to reach me:
@@ -20,7 +20,7 @@ Based on
 
 - [docodoor Co., Ltd.](https://docodoor.co.jp/) 🇯🇵 (Nov 2024 - Now)
   - Software Engineer
-- [Activ8 Inc.](https://activ8.co.jp/) 🇯🇵 (Apr 2023 - Mar 2024)
+- [Activ8 Inc.](https://activ8.co.jp/) 🇯🇵 (May 2023 - Mar 2024)
   - Software Engineer
 - Synamon Inc. 🇯🇵 (Oct 2018 - Apr 2023)
   - Manager
@@ -41,12 +41,12 @@ Based on
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=apple,windows,c,cpp,cs,java,kotlin,python,ts,gradle,cmake,unity,visualstudio,idea,rider,androidstudio,vscode,eclipse,git,github,notion" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=apple,windows,dart,flutter,c,cpp,cs,unity,java,kotlin,python,ts,postgres,gradle,cmake,visualstudio,idea,rider,androidstudio,vscode,eclipse,git,github,notion" />
 <br>
 
 ## 👀 Interest
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,dart,flutter,react,nextjs,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,react,nextjs,aws" />
 <br>
 
 <!-- Activities -->
