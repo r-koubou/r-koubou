@@ -5,7 +5,7 @@ Based on
 >
 
 <!-- views -->
-<div align="right"><img src="https://komarev.com/ghpvc/?username=r-koubou" /></div>
+<div align="left"><img src="https://komarev.com/ghpvc/?username=r-koubou" /></div>
 
 
 <!-- profile -->
@@ -13,7 +13,7 @@ Based on
 
 - 🧑‍💻 I'm a software engineer.
 - 📫 How to reach me:
-  - [Web - linktr.ee/rkoubou](https://linktr.ee/rkoubou)
+  - [Web](https://r-koubou.net/)
   - [X(Twitter) - @rkoubou_jp](https://x.com/rkoubou_jp)
 
 ## ⏱️ Work history
@@ -41,19 +41,22 @@ Based on
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=apple,windows,dart,flutter,c,cpp,cs,unity,java,kotlin,python,ts,postgres,gradle,cmake,visualstudio,idea,rider,androidstudio,vscode,eclipse,git,github,notion" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=apple,windows,dart,flutter,c,cpp,cs,unity,java,postgres,heroku,gradle,cmake,visualstudio,idea,rider,androidstudio,vscode,eclipse,git,github,notion" />
 <br>
+
+## 🧸 Hobby
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,ts,kotlin,obsidian,githubactions" />
+<br>
+
 
 ## 👀 Interest
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,react,nextjs,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=svelte,rust,swift,aws,gcp" />
 <br>
 
 <!-- Activities -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
+## 🏃‍♀️ Stats
 
-<div align="left">
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=r-koubou&theme=vue-dark&layout=compact&show_icons=true&count_private=true" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-koubou&theme=vue-dark&layout=compact" />
-</div>
+[![Stats](https://helio-github-stats.vercel.app/api?username=r-koubou&custom_title=Stats&theme=nightowl&title_color=2f80ed&text_color=bedaf9&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=true&hide_rank=false&rank_icon=percentile&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short&hide=contribs)](https://github.com/r-koubou)
