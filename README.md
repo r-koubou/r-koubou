@@ -46,13 +46,13 @@ Based on
 
 ## 🧸 Hobby
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,ts,kotlin,obsidian,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,python,ts,kotlin,java,cpp,cs,obsidian,githubactions" />
 <br>
 
 
 ## 👀 Interest
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=svelte,rust,swift,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=svelte,swift,aws,gcp" />
 <br>
 
 <!-- Activities -->
