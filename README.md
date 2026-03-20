@@ -52,7 +52,7 @@ Based on
 
 ## 👀 Interest
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=svelte,swift,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=zig,svelte,swift,aws,gcp" />
 <br>
 
 <!-- Activities -->
