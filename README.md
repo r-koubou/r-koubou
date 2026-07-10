@@ -21,6 +21,7 @@ Based on
 
 - [docodoor Co., Ltd.](https://docodoor.co.jp/) 🇯🇵 (Nov 2024 - Jul 2026)
   - Software Engineer
+  - Assistant Lead of the Engineering Team
 - [Activ8 Inc.](https://activ8.co.jp/) 🇯🇵 (May 2023 - Mar 2024)
   - Software Engineer
 - Synamon Inc. 🇯🇵 (Oct 2018 - Apr 2023)
