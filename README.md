@@ -12,13 +12,14 @@ Based on
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 - 🧑‍💻 I'm a software engineer.
+- 💥 I'm currently looking for a job.
 - 📫 How to reach me:
   - [Web](https://r-koubou.net/)
   - [X(Twitter) - @rkoubou_jp](https://x.com/rkoubou_jp)
 
 ## ⏱️ Work history
 
-- [docodoor Co., Ltd.](https://docodoor.co.jp/) 🇯🇵 (Nov 2024 - Now)
+- [docodoor Co., Ltd.](https://docodoor.co.jp/) 🇯🇵 (Nov 2024 - Jul 2026)
   - Software Engineer
 - [Activ8 Inc.](https://activ8.co.jp/) 🇯🇵 (May 2023 - Mar 2024)
   - Software Engineer
