@@ -47,7 +47,7 @@ Based on
 
 #### Major Projects Handled
 
-- SYNMN - Metaverse client application using Unity3D : Project Manager, Application Architect, Technical Lead, Software Engineer
+- SYNMN - Metaverse client application using Unity3D : Project Manager / Application Architect / Technical Lead / Software Engineer
 
 ### 📁 [CODE Co., Ltd.](https://www.code-icf.co.jp/) 🇯🇵 (Nov 2013 - Aug 2018)
 
@@ -56,7 +56,7 @@ Based on
 
 #### Major Projects Handled
 
-- Liica [Q / Q universe / Q craft](https://www.liica.co.jp/) : Technical Director, Virtual File System design
+- Liica [Q / Q universe / Q craft](https://www.liica.co.jp/) : Technical Director / Virtual File System & Asset Management System design
 - Rayark [Cytus](https://rayark.com/en/games/cytus/) :  Amazon App Store version development
 - Rayark [Deemo](https://rayark.com/en/games/deemo/) : docomo App Store version development
 - etc...
@@ -72,9 +72,9 @@ Based on
 
 #### Major Projects Handled
 
-- [El Drago](https://game.watch.impress.co.jp/docs/20080529/el.htm) : Main Programmer, Technical Lead, QA
-- [True Love Story](https://www.itmedia.co.jp/mobile/articles/0504/08/news078.html) : Main Programmer, Technical Lead, QA
-- Game Framework : Management & Development & Technical Writer (Architect. Design, Development, Maintenance, all phases)
+- [El Drago](https://game.watch.impress.co.jp/docs/20080529/el.htm) : Main Programmer / Technical Lead / QA
+- [True Love Story](https://www.itmedia.co.jp/mobile/articles/0504/08/news078.html) : Main Programmer / Technical Lead / QA
+- Game Framework : Management & Development & Technical Writer (Architect / Design / Development / Maintenance / Technical Support, all phases)
     - Almost all of the G-mode's games for feature phones  were developed using the game framework I developed 👍
 - etc...
 
