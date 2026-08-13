@@ -75,7 +75,7 @@ Based on
 - [El Drago](https://game.watch.impress.co.jp/docs/20080529/el.htm) : Main Programmer / Technical Lead / QA
 - [True Love Story](https://www.itmedia.co.jp/mobile/articles/0504/08/news078.html) : Main Programmer / Technical Lead / QA
 - Game Framework : Management & Development & Technical Writer (Architect / Design / Development / Maintenance / Technical Support, all phases)
-    - Almost all of the G-mode's games for feature phones  were developed using the game framework I developed 👍
+    - **Almost all of the G-mode's games for feature phones  were developed using the game framework I developed** 👍
 - etc...
 
 <!-- Skills, Interest -->
