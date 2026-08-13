@@ -57,11 +57,8 @@ Based on
 #### Major Projects Handled
 
 - Liica [Q / Q universe / Q craft](https://www.liica.co.jp/) : Technical Director, Virtual File System design
-
 - Rayark [Cytus](https://rayark.com/en/games/cytus/) :  Amazon App Store version development
-
 - Rayark [Deemo](https://rayark.com/en/games/deemo/) : docomo App Store version development
-
 - etc...
 
 
@@ -77,10 +74,8 @@ Based on
 
 - [El Drago](https://game.watch.impress.co.jp/docs/20080529/el.htm) : Main Programmer, Technical Lead, QA
 - [True Love Story](https://www.itmedia.co.jp/mobile/articles/0504/08/news078.html) : Main Programmer, Technical Lead, QA
-
 - Game Framework : Management & Development & Technical Writer (Architect. Design, Development, Maintenance, all phases)
     - Almost all of the G-mode's games for feature phones  were developed using the game framework I developed 👍
-
 - etc...
 
 <!-- Skills, Interest -->
