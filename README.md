@@ -27,6 +27,7 @@ Based on
 #### Major Projects Handled
 
 - A certain [AEON group](https://www.aeon.info/) mobile app
+- A certain [Menicon](https://www.menicon.co.jp/) mobile app
 - Regular Study Session for Engineers
 
 ### 📁 [Activ8 Inc.](https://activ8.co.jp/) 🇯🇵 (May 2023 - Mar 2024)
