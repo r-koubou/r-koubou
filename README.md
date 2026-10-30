@@ -21,7 +21,11 @@ Based on
 
 ### 📁 [docodoor Co., Ltd.](https://docodoor.co.jp/) 🇯🇵 (Nov 2024 - Jul 2026)
 
-- Software Engineer (Dart/Flutter/Kotlin/Swift)
+Contract development
+
+#### Job title
+
+- Software Engineer (Dart / Flutter / Kotlin / Swift)
 - Assistant Lead of the Engineering Team
 
 #### Major Projects Handled
@@ -32,27 +36,43 @@ Based on
 
 ### 📁 [Activ8 Inc.](https://activ8.co.jp/) 🇯🇵 (May 2023 - Mar 2024)
 
-- Software Engineer (Unity/C#/Obj-C/Java)
+In-house product development / Contract development
+
+#### Job title
+
+- Software Engineer (Unity / C# / Obj-C / Android Java)
 
 #### Major Projects Handled
 
-- Live streaming demonstration experiment
-- Technical support for third-party metaverse client applications
+- Live streaming verification test with a telecommunications carrier
+- Technical support for [αU metaverse](https://alpha-u.io/) client applications
 - Operation and maintenance of SYNMN
 
 ### 📁 Synamon Inc. 🇯🇵 (Oct 2018 - Apr 2023)
 
+In-house product development
+
+#### Job title
+
 - Manager
 - Project Manager
-- Software Engineer (Unity/C#/Obj-C/Java)
+- Software Engineer (Unity / C# / Obj-C / Android Java)
 
 #### Major Projects Handled
 
-- SYNMN - Metaverse client application using Unity3D : Project Manager / Application Architect / Technical Lead / Software Engineer
+- SYNMN - Metaverse client application using Unity3D
+    - Project Manager
+    - Application Architect
+    - Technical Lead
+    - Software Engineer
 
 ### 📁 [CODE Co., Ltd.](https://www.code-icf.co.jp/) 🇯🇵 (Nov 2013 - Aug 2018)
 
-- Software Engineer (Unity/C#/Obj-C/Java)
+Contract development
+
+#### Job title
+
+- Software Engineer (Unity / C# / Obj-C / Android Java)
 - Project Manager
 
 #### Major Projects Handled
@@ -65,7 +85,11 @@ Based on
 
 ### 📁 [G-mode Corporation](https://gmodecorp.com/) 🇯🇵 (Apr 2002 - Sep 2013)
 
-- Software Engineer (Unity/C#/Obj-C/Java/C/C++)
+In-house product development
+
+#### Job title
+
+- Software Engineer (Unity / C# / Obj-C / Java / C / C++)
 - Project Manager
 - Technical Lead
 - Technical Support / Technical Writer
@@ -89,13 +113,13 @@ Based on
 
 ## 🧸 Hobby
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,python,ts,kotlin,java,cpp,cs,obsidian,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,ts,kotlin,java,cpp,cs,obsidian,githubactions,cloudflare" />
 <br>
 
 
 ## 👀 Interest
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=zig,svelte,swift,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,react,svelte,swift,aws,gcp" />
 <br>
 
 <!-- Activities -->
