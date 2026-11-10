@@ -31,6 +31,31 @@ Based on
 - Application architects, design, and implementation by era
 - Specializing in abstract thinking, ranging from low-level and embedded systems to framework development
 
+<!-- Skills, Interest -->
+<!-- ライトモート：theme=light, ダークモート：theme=dark -->
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🌱 Skills
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=apple,windows,dart,flutter,c,cpp,cs,unity,java,postgres,heroku,gradle,cmake,visualstudio,idea,rider,androidstudio,vscode,eclipse,git,github,notion" />
+<br>
+
+## 🧸 Hobby
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,ts,kotlin,java,cpp,cs,obsidian,githubactions,cloudflare" />
+<br>
+
+
+## 👀 Interest
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,react,svelte,swift,aws,gcp" />
+<br>
+
+<!-- Activities -->
+<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+## 🏃‍♀️ Stats
+
+[![Stats](https://helio-github-stats.vercel.app/api?username=r-koubou&custom_title=Stats&theme=nightowl&title_color=2f80ed&text_color=bedaf9&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=true&hide_rank=false&rank_icon=percentile&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short&hide=contribs)](https://github.com/r-koubou)
+
 ## ⏱️ Work history
 
 ### 📁 [docodoor Co., Ltd.](https://docodoor.co.jp/) 🇯🇵 (Nov 2024 - Jul 2026)
@@ -116,28 +141,3 @@ In-house product development
 - Game Framework : Management & Development & Technical Writer (Architect / Design / Development / Maintenance / Technical Support, all phases)
     - **Almost all of the G-mode's games for feature phones  were developed using the game framework I developed** 👍
 - etc...
-
-<!-- Skills, Interest -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=apple,windows,dart,flutter,c,cpp,cs,unity,java,postgres,heroku,gradle,cmake,visualstudio,idea,rider,androidstudio,vscode,eclipse,git,github,notion" />
-<br>
-
-## 🧸 Hobby
-
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,ts,kotlin,java,cpp,cs,obsidian,githubactions,cloudflare" />
-<br>
-
-
-## 👀 Interest
-
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,react,svelte,swift,aws,gcp" />
-<br>
-
-<!-- Activities -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Stats
-
-[![Stats](https://helio-github-stats.vercel.app/api?username=r-koubou&custom_title=Stats&theme=nightowl&title_color=2f80ed&text_color=bedaf9&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=true&hide_rank=false&rank_icon=percentile&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short&hide=contribs)](https://github.com/r-koubou)
