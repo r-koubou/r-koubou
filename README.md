@@ -19,13 +19,15 @@ Based on
 
 ## Professional Summary
 
-| Period              | Company                      | 
-| ------------------- | ---------------------------- | 
-| Nov 2024 - Jul 2026 | docodoor Co., Ltd. 🇯🇵  | 
-| May 2023 - Mar 2024 | Activ8 Inc. 🇯🇵         | 
-| Oct 2018 - Apr 2023 | Synamon Inc. 🇯🇵        | 
-| Nov 2013 - Aug 2018 | CODE Co., Ltd. 🇯🇵      | 
-| Apr 2002 - Sep 2013 | G-mode Corporation 🇯🇵  | 
+Detailed work history can be found in the [Work History](resume/work-history.md).
+
+| Period              | Company                      |
+| ------------------- | ---------------------------- |
+| Nov 2024 - Jul 2026 | docodoor Co., Ltd. 🇯🇵  |
+| May 2023 - Mar 2024 | Activ8 Inc. 🇯🇵         |
+| Oct 2018 - Apr 2023 | Synamon Inc. 🇯🇵        |
+| Nov 2013 - Aug 2018 | CODE Co., Ltd. 🇯🇵      |
+| Apr 2002 - Sep 2013 | G-mode Corporation 🇯🇵  |
 
 - Engaged in the development of mobile games, smartphone apps, and metaverse platforms.
 - Application architects, design, and implementation by era
@@ -55,89 +57,3 @@ Based on
 ## 🏃‍♀️ Stats
 
 [![Stats](https://helio-github-stats.vercel.app/api?username=r-koubou&custom_title=Stats&theme=nightowl&title_color=2f80ed&text_color=bedaf9&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=true&hide_rank=false&rank_icon=percentile&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short&hide=contribs)](https://github.com/r-koubou)
-
-## ⏱️ Work history
-
-### 📁 [docodoor Co., Ltd.](https://docodoor.co.jp/) 🇯🇵 (Nov 2024 - Jul 2026)
-
-Contract development
-
-#### Job title
-
-- Software Engineer (Dart / Flutter / Kotlin / Swift)
-- Assistant Lead of the Engineering Team
-
-#### Major Projects Handled
-
-- A certain [AEON group](https://www.aeon.info/) mobile app
-- A certain [Menicon](https://www.menicon.co.jp/) mobile app
-- Regular Study Session for Engineers
-
-### 📁 [Activ8 Inc.](https://activ8.co.jp/) 🇯🇵 (May 2023 - Mar 2024)
-
-In-house product development / Contract development
-
-#### Job title
-
-- Software Engineer (Unity / C# / Obj-C / Android Java)
-
-#### Major Projects Handled
-
-- Live streaming verification test with a telecommunications carrier
-- Technical support for [αU metaverse](https://alpha-u.io/) client applications
-- Operation and maintenance of SYNMN
-
-### 📁 Synamon Inc. 🇯🇵 (Oct 2018 - Apr 2023)
-
-In-house product development
-
-#### Job title
-
-- Manager
-- Project Manager
-- Software Engineer (Unity / C# / Obj-C / Android Java)
-
-#### Major Projects Handled
-
-- SYNMN - Metaverse client application using Unity3D
-    - Project Manager
-    - Application Architect
-    - Technical Lead
-    - Software Engineer
-
-### 📁 [CODE Co., Ltd.](https://www.code-icf.co.jp/) 🇯🇵 (Nov 2013 - Aug 2018)
-
-Contract development
-
-#### Job title
-
-- Software Engineer (Unity / C# / Obj-C / Android Java)
-- Project Manager
-
-#### Major Projects Handled
-
-- Liica [Q / Q universe / Q craft](https://www.liica.co.jp/) : Technical Director / Virtual File System & Asset Management System design
-- Rayark [Cytus](https://rayark.com/en/games/cytus/) :  Amazon App Store version development
-- Rayark [Deemo](https://rayark.com/en/games/deemo/) : docomo App Store version development
-- etc...
-
-
-### 📁 [G-mode Corporation](https://gmodecorp.com/) 🇯🇵 (Apr 2002 - Sep 2013)
-
-In-house product development
-
-#### Job title
-
-- Software Engineer (Unity / C# / Obj-C / Java / C / C++)
-- Project Manager
-- Technical Lead
-- Technical Support / Technical Writer
-- QA Engineer
-
-#### Major Projects Handled
-
-- [El Drago](https://game.watch.impress.co.jp/docs/20080529/el.htm) : Main Programmer / Technical Lead / QA
-- [True Love Story](https://www.itmedia.co.jp/mobile/articles/0504/08/news078.html) : Main Programmer / Technical Lead / QA
-- Game Framework : Management & Development & Technical Writer (Architect / Design / Development / Maintenance / Technical Support, all phases)
-    - **Almost all of the G-mode's games for feature phones  were developed using the game framework I developed** 👍
-- etc...
