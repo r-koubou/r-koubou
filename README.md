@@ -17,21 +17,9 @@ Based on
   - [Web](https://r-koubou.net/)
   - [X(Twitter) - @rkoubou_jp](https://x.com/rkoubou_jp)
 
-## Professional Summary
+## ⏱️ Work History
 
 Detailed work history can be found in the [Work History](resume/work-history.md).
-
-| Period              | Company                      |
-| ------------------- | ---------------------------- |
-| Nov 2024 - Jul 2026 | docodoor Co., Ltd. 🇯🇵  |
-| May 2023 - Mar 2024 | Activ8 Inc. 🇯🇵         |
-| Oct 2018 - Apr 2023 | Synamon Inc. 🇯🇵        |
-| Nov 2013 - Aug 2018 | CODE Co., Ltd. 🇯🇵      |
-| Apr 2002 - Sep 2013 | G-mode Corporation 🇯🇵  |
-
-- Engaged in the development of mobile games, smartphone apps, and metaverse platforms.
-- Application architects, design, and implementation by era
-- Specializing in abstract thinking, ranging from low-level and embedded systems to framework development
 
 <!-- Skills, Interest -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
